@@ -57,3 +57,10 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
+body {
+  background-image: url("back1.webp");
+  background-size: cover; /* Масштабирование изображения для заполнения всего экрана */
+  background-repeat: no-repeat; /* Запрет повторения изображения */
+  overflow: hidden;
+}
